@@ -2,9 +2,9 @@
 <package format="3">
   <name>dynamixel_interfaces</name>
   <version>1.0.0</version>
-  <description>ROS2 package for dynamixel_interfaces</description>
+  <description>ROS 2 package for dynamixel_hardware_interface package</description>
   <maintainer email="pyo@robotis.com">Pyo</maintainer>
-  <license>ROBOTIS</license>
+  <license>Apache 2.0</license>
   <author email="hjkim@robotis.com">Hye-Jong KIM</author>
   <author email="wsh@robotis.com">Sungho Woo</author>
 
