@@ -2,7 +2,9 @@
 <package format="3">
   <name>dynamixel_interfaces</name>
   <version>1.0.0</version>
-  <description>ROS 2 package for dynamixel_hardware_interface package</description>
+  <description>
+    dynamixel_interfaces contains base messages and service useful for controlling Dynamixel.
+  </description>
   <maintainer email="pyo@robotis.com">Pyo</maintainer>
   <license>Apache 2.0</license>
   <author email="hjkim@robotis.com">Hye-Jong KIM</author>
