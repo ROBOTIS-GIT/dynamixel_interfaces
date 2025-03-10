@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <package format="3">
   <name>dynamixel_interfaces</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>
     dynamixel_interfaces contains base messages and service useful for controlling Dynamixel.
   </description>
